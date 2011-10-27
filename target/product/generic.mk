@@ -25,6 +25,7 @@ PRODUCT_PACKAGES := \
     Calculator \
     Calendar \
     Camera \
+    CellBroadcastReceiver \
     CertInstaller \
     DrmProvider \
     Email \
@@ -37,6 +38,7 @@ PRODUCT_PACKAGES := \
     Protips \
     QuickSearchBox \
     Settings \
+    Superuser \
     Sync \
     SystemUI \
     Updater \
